@@ -19,7 +19,7 @@
 
 Hi! I'm **Santosh Reddy**, a third-year B.Tech student at **KL University** specializing in **Artificial Intelligence & Data Science**.
 
-- 🎓 Currently in my **1st year** (2024–2028), CGPA: **8.5**
+- 🎓 Currently in my **1st year** (2024–2028), CGPA: **8.53**
 - 💻 Learning **Python**, **Web Development**, and **MySQL**
 - 🌱 Exploring **AI/ML concepts** and building beginner projects
 - 🤝 Looking for **internships** and **open-source contributions**
