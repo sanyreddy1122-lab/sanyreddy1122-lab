@@ -23,7 +23,7 @@
 Hi! I'm **Santosh Reddy**, a B.Tech student at **KL University** specializing in **Artificial Intelligence & Data Science**.
 
 - 🎓 B.Tech in AI & Data Science | 2024–Present
-- 📊 CGPA: **8.5+**
+- 📊 CGPA: **8.53**
 - 💻 Interested in **Python, Web Development, Cloud & AI/ML**
 - ☁️ Currently exploring **Microsoft Azure and Azure RBAC**
 - 🚀 Building practical projects and learning through hands-on development
