@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karri Sri Satya Santosh Reddy</h1>
 
 <h3 align="center">
-🎓 AI & Data Science Student | KL University | Azure • Python • Web Development
+🎓 AI & Data Science Student | KL University | Azure • AWS • Python • MLOps
 </h3>
 
 <p align="center">
@@ -24,11 +24,24 @@ Hi! I'm **Santosh Reddy**, a B.Tech student at **KL University** specializing in
 
 - 🎓 B.Tech in AI & Data Science | 2024–Present
 - 📊 CGPA: **8.53**
-- 💻 Interested in **Python, Web Development, Cloud & AI/ML**
-- ☁️ Currently exploring **Microsoft Azure and Azure RBAC**
+- 🏅 **AWS Certified Cloud Practitioner** (June 2026)
+- 💻 Interested in **Python, Web Development, Cloud, MLOps & AI/ML**
+- ☁️ Building on **Microsoft Azure** (RBAC, Entra ID) and learning **AWS**
 - 🚀 Building practical projects and learning through hands-on development
 - 🤝 Open to internships and collaboration
 - 📍 Andhra Pradesh, India
+
+---
+
+## 🏅 Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+**AWS Certified Cloud Practitioner** — Amazon Web Services
+Issued: June 27, 2026 • Expires: June 27, 2029
+Validation No: `bd0c0bef80aa44b18f3329ca66151f85` • [Verify here](https://aws.amazon.com/verification)
 
 ---
 
@@ -41,12 +54,13 @@ Hi! I'm **Santosh Reddy**, a B.Tech student at **KL University** specializing in
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
-### Web Development
+### Web Development & Backend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
 ### Cloud & Security
@@ -54,14 +68,24 @@ Hi! I'm **Santosh Reddy**, a B.Tech student at **KL University** specializing in
   <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure%20RBAC-0078D4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Microsoft%20Entra%20ID-5E5CE6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+### MLOps & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Evidently%20AI-ED0500?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 </p>
 
 ### Database & Tools
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
@@ -81,6 +105,26 @@ A web application that converts operational tasks into the minimum required Azur
 - 🚀 Deployed using Azure App Service and GitHub Actions
 
 **Tech:** Next.js • TypeScript • Microsoft Azure • Azure RBAC • Entra ID • REST API • GitHub Actions
+
+---
+
+### 🎬 ReelRank – MLOps Movie Recommender
+
+A runnable movie recommendation product built as an MLOps starter, with a streaming-style responsive interface.
+
+- 🤖 Content-based recommender using TF-IDF and cosine similarity, served through a **FastAPI** backend (`POST /predict`)
+- 👤 Personalized recommendations, watchlist, and feedback per account (SQLite)
+- 🔒 PBKDF2 password hashing and signed HttpOnly session cookies
+- 🌍 Explore 78 titles across 27 languages with search, filters, and sorting
+- 📈 **MLflow** experiment tracking for precision@k, hit rate@k, and catalog coverage
+- 🧪 **Evidently** data-drift reports against a versioned baseline
+- 🐳 Docker Compose setup, GitHub Actions CI, and auto-deploy to Render
+
+**Tech:** Python • FastAPI • scikit-learn (TF-IDF) • MLflow • Evidently • Docker • GitHub Actions • Render • SQLite
+
+🔗 [Repository](https://github.com/sanyreddy1122-lab/reelrank-movie-recommender) • [Live demo](https://reelrank-movie-recommender.onrender.com)
+
+> Educational baseline built on a sample catalog — not a production-trained model.
 
 ---
 
@@ -112,7 +156,8 @@ A web platform designed for academic peer collaboration.
 
 - 🐍 Python & Data Structures
 - 🤖 Machine Learning
-- ☁️ Microsoft Azure
+- 🔄 MLOps (experiment tracking, drift monitoring, CI/CD)
+- ☁️ Microsoft Azure & AWS
 - 🔐 Cloud Security & RBAC
 - 🌐 Modern Web Development
 - 🗄️ SQL & Database Design
